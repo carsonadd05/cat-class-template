@@ -8,17 +8,14 @@ class Cat():
         return "Meow"
 
 
-stella = Cat
+stella = Cat()
 stella.name = "stella" 
 stella.age = 7 
-word2 = stella.speak 
-print(word2)
 
-garfield = Cat
+garfield = Cat()
 garfield.name = "garfield"
 garfield.age = 50
-word = garfield.speak()
-print(word)
+#word_2 = garfield.speak()
 
 
 
