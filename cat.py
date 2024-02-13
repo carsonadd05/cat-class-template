@@ -10,11 +10,11 @@ class Cat():
 #Create objects here
 #These should NOT be indented inside the class
 
-stella = Cat()
-stella.name = "stella" 
-stella.age = 7 
+Stella = Cat()
+Stella.name = "Stella" 
+Stella.age = 7 
 
-garfield = Cat()
-garfield.name = "garfield"
-garfield.age = 50
+Garfield = Cat()
+Garfield.name = "Garfield"
+Garfield.age = 50
 #garfield.speak()
