@@ -7,6 +7,8 @@ class Cat():
     def speak(self):
         return "Meow"
 
+#Create objects here
+#These should NOT be indented inside the class
 
 stella = Cat()
 stella.name = "stella" 
@@ -15,16 +17,4 @@ stella.age = 7
 garfield = Cat()
 garfield.name = "garfield"
 garfield.age = 50
-#word_2 = garfield.speak()
-
-
-
-
-
-
-
-
-
-#Create objects here
-#These should NOT be indented inside the class
-
+#garfield.speak()
